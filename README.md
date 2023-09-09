@@ -1,4 +1,4 @@
-# UMC_INSIDER_FRONT
+# UMC_INSIDER
 
 ## 서비스 이름 & 유래
 <img src="https://github.com/comst19/UMC_INSIDER_FRONT/assets/69802523/57ac0f7e-6c83-4a45-aa2f-13003845b27f" width="600px" height="600px">
