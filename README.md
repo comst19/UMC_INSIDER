@@ -33,10 +33,10 @@
 |<img src="https://github.com/comst19/UMC_INSIDER_FRONT/assets/69802523/f80895a4-1772-4bec-8f41-89e8080f56d3" width=334/>|<img src="https://github.com/comst19/UMC_INSIDER_FRONT/assets/69802523/4db18782-7121-4fe3-b8d2-f8081f0f50ac" width=334/>|<img src="https://github.com/comst19/UMC_INSIDER_FRONT/assets/69802523/31680d06-c7f1-4fd9-be4b-02e2033b8b20" width=334/>|
 |_#04_buyer -> seller 전환|_#05_상품 등록|_#06_상품 수정|
 |<img src="https://github.com/comst19/UMC_INSIDER_FRONT/assets/69802523/3225d285-692c-4d91-b7f4-971f8e14ec3b" width=334/>|<img src="https://github.com/comst19/UMC_INSIDER_FRONT/assets/69802523/49e9c0af-6372-426e-a9b7-667c140c5432" width=334/>|<img src="https://github.com/comst19/UMC_INSIDER_FRONT/assets/69802523/2b399aee-9024-4e39-a0d9-898a80ee4a1d" width=334/>|
-
-
 |_#07_상품 삭제|_#08_상품 검색|_#09_상품 조회|
-|<img src="" width=334/>|<img src="" width=334/>|<img src="" width=334/>|
+|<img src="https://github.com/comst19/UMC_INSIDER_FRONT/assets/69802523/5bbdec30-ab4c-4a13-acf6-ef142d2bc0a8" width=334/>|<img src="https://github.com/comst19/UMC_INSIDER_FRONT/assets/69802523/35ff5e47-b82f-480c-a376-044bf986d325" width=334/>|<img src="https://github.com/comst19/UMC_INSIDER_FRONT/assets/69802523/9943bf3c-35fd-4bd2-b6e9-e5c6a017841c" width=334/>|
+
+
 |_#10_카테고리별 상품 조회|_#11_교환 상품 등록|_#12_교환 상품 수정|
 |<img src="" width=334/>|<img src="" width=334/>|<img src="" width=334/>|
 |_#13_교환 상품 삭제|_#14_교환 상품 검색|_#15_교환 상품 조회|
