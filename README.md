@@ -50,4 +50,4 @@
 |홍성민|오서윤|박민수|임용수|정윤지|이은정|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |PM|Design|Android|Android|Backend|Backend|
-
+|<a href="https://github.com/stevehong12">@stevehong12</a>||<a href="https://github.com/comst19">@comst19</a>|<a href="https://github.com/limyongsu">@limyongsu</a>|<a href="https://github.com/yoondaeng">@yoondaeng</a>|<a href="https://github.com/Eundding">@Eundding</a>|
