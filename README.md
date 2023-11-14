@@ -1,8 +1,13 @@
 # <a href="https://github.com/UMC-4-th-INSIDER">UMC_INSIDER</a>
 
 ## 서비스 이름 & 유래
-<img src="https://github.com/comst19/UMC_INSIDER_FRONT/assets/69802523/57ac0f7e-6c83-4a45-aa2f-13003845b27f" width="600px" height="600px">
+<img src="https://github.com/comst19/UMC_INSIDER/assets/69802523/76d7e7b1-055d-4614-997f-0568c454952d" width="500px" height="700px">    
 
+#### Ingredient '재료' + cheap '싼' = INSIDER
+
+### 인싸
+#### 나누는 식재료, 줄어드는 부담
+#### #동네 #절약 #식재료 #시장경제 활성화
 
 ## 시스템 개요
 - 세대 구성원의 변화, 가파른 물가상승률, 비슷한 기능을 가진 타 플랫폼의 한계점을 발견
